@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alperen\\source\\repos\\proje1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D988F35D-747F-4EEE-9D5B-00922C9FA23A}|proje1\\proje1.csproj|C:\\Users\\alperen\\source\\repos\\proje1\\proje1\\Point2D.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D988F35D-747F-4EEE-9D5B-00922C9FA23A}|proje1\\proje1.csproj|solutionrelative:proje1\\Point2D.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D988F35D-747F-4EEE-9D5B-00922C9FA23A}|proje1\\proje1.csproj|C:\\Users\\alperen\\source\\repos\\proje1\\proje1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D988F35D-747F-4EEE-9D5B-00922C9FA23A}|proje1\\proje1.csproj|solutionrelative:proje1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D988F35D-747F-4EEE-9D5B-00922C9FA23A}|proje1\\proje1.csproj|c:\\users\\alperen\\source\\repos\\proje1\\proje1\\polygon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D988F35D-747F-4EEE-9D5B-00922C9FA23A}|proje1\\proje1.csproj|solutionrelative:proje1\\polygon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D988F35D-747F-4EEE-9D5B-00922C9FA23A}|proje1\\proje1.csproj|C:\\Users\\alperen\\source\\repos\\proje1\\proje1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D988F35D-747F-4EEE-9D5B-00922C9FA23A}|proje1\\proje1.csproj|solutionrelative:proje1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D988F35D-747F-4EEE-9D5B-00922C9FA23A}|proje1\\proje1.csproj|C:\\Users\\alperen\\source\\repos\\proje1\\proje1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D988F35D-747F-4EEE-9D5B-00922C9FA23A}|proje1\\proje1.csproj|solutionrelative:proje1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D988F35D-747F-4EEE-9D5B-00922C9FA23A}|proje1\\proje1.csproj|C:\\Users\\alperen\\source\\repos\\proje1\\proje1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D988F35D-747F-4EEE-9D5B-00922C9FA23A}|proje1\\proje1.csproj|solutionrelative:proje1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\alperen\\source\\repos\\proje1\\proje1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "proje1\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\alperen\\source\\repos\\proje1\\proje1\\Form1.Designer.cs",
+              "RelativeToolTip": "proje1\\Form1.Designer.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T17:44:32.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Polygon.cs",
+              "DocumentMoniker": "C:\\Users\\alperen\\source\\repos\\proje1\\proje1\\Polygon.cs",
+              "RelativeDocumentMoniker": "proje1\\Polygon.cs",
+              "ToolTip": "C:\\Users\\alperen\\source\\repos\\proje1\\proje1\\Polygon.cs",
+              "RelativeToolTip": "proje1\\Polygon.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T17:27:43.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Point2D.cs",
+              "DocumentMoniker": "C:\\Users\\alperen\\source\\repos\\proje1\\proje1\\Point2D.cs",
+              "RelativeDocumentMoniker": "proje1\\Point2D.cs",
+              "ToolTip": "C:\\Users\\alperen\\source\\repos\\proje1\\proje1\\Point2D.cs",
+              "RelativeToolTip": "proje1\\Point2D.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAkwAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T17:27:42.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\alperen\\source\\repos\\proje1\\proje1\\Form1.cs",
+              "RelativeDocumentMoniker": "proje1\\Form1.cs",
+              "ToolTip": "C:\\Users\\alperen\\source\\repos\\proje1\\proje1\\Form1.cs",
+              "RelativeToolTip": "proje1\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T17:26:01.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alperen\\source\\repos\\proje1\\proje1\\Program.cs",
+              "RelativeDocumentMoniker": "proje1\\Program.cs",
+              "ToolTip": "C:\\Users\\alperen\\source\\repos\\proje1\\proje1\\Program.cs",
+              "RelativeToolTip": "proje1\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T17:25:41.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\alperen\\source\\repos\\proje1\\proje1\\Form1.cs",
+              "RelativeDocumentMoniker": "proje1\\Form1.cs",
+              "ToolTip": "C:\\Users\\alperen\\source\\repos\\proje1\\proje1\\Form1.cs [Design]",
+              "RelativeToolTip": "proje1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T17:44:47.963Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
